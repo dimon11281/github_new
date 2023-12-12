@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d68757ef-d708-4b05-acc8-b4c227940276" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/New_newbranch/newbranch.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new/txt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/new/txt.txt" afterDir="false" />
@@ -27,7 +28,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "newbranch",
     "last_opened_file_path": "D:/Python/Git",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
