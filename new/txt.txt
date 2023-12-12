@@ -2,5 +2,10 @@ sdfsdfs
 lkdmjgldksfjg
 dsklfghksdjfghksdj
 jkdsgd
+<<<<<<< HEAD
 
 111111
+=======
+qq
+q
+>>>>>>> newbranch

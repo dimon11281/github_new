@@ -1,4 +1,7 @@
 I master
+<<<<<<< HEAD
 
 sdfjsldf
 skdfksd
+=======
+>>>>>>> newbranch
